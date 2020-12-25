@@ -21,7 +21,11 @@
 .user-name{
   font-size: 16px;
   margin-left: 20px;
+}
+
+.user-name a{
   color: #FAFAFA;
+  text-decoration: none;
 }
 
 .create-room{
